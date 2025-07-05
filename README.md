@@ -21,7 +21,7 @@
 
 **1. Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/yourusername/deepsymnet.git
+git clone https://github.com/vovanshil95/deep-cv-models-on-mri.git
 cd deepsymnet
 ```
 
@@ -69,6 +69,7 @@ pip install git+https://github.com/aimclub/eXplain-NNs
 
 Если вы используете этот проект, пожалуйста, цитируйте:
 
+```bibtex
 @misc{deepsymnet2023,
   title={Ischemic Stroke Detection via Symmetry Analysis and Topological Learning},
   author={[Shilonosov Vladimir]},
@@ -76,3 +77,4 @@ pip install git+https://github.com/aimclub/eXplain-NNs
   publisher={GitHub},
   howpublished={\url{https://github.com/vovanshil95/deep-cv-models-on-mri}}
 }
+```
